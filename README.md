@@ -1,11 +1,17 @@
 # Analizador Nutricional Personal
 
-Artefacto que calcula mis requerimientos diarios de calorías y nutrientes.
+Artefacto React que calcula mis requerimientos nutricionales diarios y genera recomendaciones personalizadas.
 
 ## Funcionalidades actuales:
-- Cálculo de calorías basado en mi perfil
-- Análisis de los requisitos de macroy micronutrientes
-- Recomendaciones de alimentos a consumir por día con sus cantidades, según la lista de alimentos inicial que le brindamos cada día.
-- Gráficas evolutiva a lo largo de los días y nutricionales diarias.
+- Cálculo de calorías basado en mi perfil personal
+- Análisis de macronutrientes (proteínas, carbohidratos, grasas)
+- Análisis de micronutrientes (vitaminas, minerales)
+- Recomendaciones de alimentos de mi lista disponible
+- Gráficas nutricionales interactivas
+- Seguimiento de composición corporal
 
+## Archivos:
+- `artefacto-final.html` - Aplicación completa funcionando
+- `mi-perfil.txt` - Mis datos personales y objetivos
 
+Estado: Funcionando perfectamente, listo para nuevas funcionalidades.

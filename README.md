@@ -7,5 +7,5 @@ Artefacto que calcula mis requerimientos diarios de calorías y nutrientes.
 - Análisis de macronutrientes
 - Recomendaciones de alimentos
 - Gráficas nutricionales
-- [agrega otras funcionalidades que tenga]
+
 
